@@ -1,4 +1,4 @@
-# 🚀 Todo API - AWS Lambda con TypeScript
+## 🚀 Todo API - AWS Lambda con TypeScript
 
 ## Descripción
 API REST serverless para gestión de tareas construida con AWS Lambda, API Gateway y DynamoDB.
